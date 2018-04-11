@@ -7,9 +7,7 @@ public class IntegerReader {
 
 	public static void main(String[] args) {
 		IntegerReader intReader = new IntegerReader();
-		
 		intReader.run();
-
 	}
 
 	public void run() {
